@@ -18,31 +18,31 @@ The project is broken down according to the **five functions** of the NIST Cyber
 - Conducted a post-incident risk analysis revealing an unconfigured firewall.
 - Assessed vulnerability severity and exposure risks.
 
-![Identify](./screenshots/screenshot-nist-csf-overview.png)
+![Identify](./screenshot-nist-csf-overview.png)
 
 ### 2. Protect
 - Implemented ICMP rate limiting rules.
 - Enabled source IP address verification on the firewall.
 
-![Firewall Rule](./screenshots/screenshot-firewall-rule.png)
+![Firewall Rule](./screenshot-firewall-rule.png)
 
 ### 3. Detect
 - Deployed network monitoring software.
 - Introduced IDS/IPS filters for abnormal ICMP traffic patterns.
 
-![Traffic Detection](./screenshots/screenshot-network-traffic.png)
+![Traffic Detection](./screenshot-network-traffic.png)
 
 ### 4. Respond
 - Blocked incoming ICMP packets.
 - Restored only critical services during the attack.
 
-![Incident Response](./screenshots/screenshot-incident-report.png)
+![Incident Response](./screenshot-incident-report.png)
 
 ### 5. Recover
 - Performed a post-incident analysis.
 - Implemented long-term improvements in firewall rules, detection tools, and staff training.
 
-![Lessons Learned](./screenshots/screenshot-lessons-learned.png)
+![Lessons Learned](./screenshot-lessons-learned.png)
 
 ---
 
